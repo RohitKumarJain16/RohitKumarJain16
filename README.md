@@ -1,43 +1,24 @@
-# Hi 👋, I'm Rohit Kumar Jain
+# 💫 About Me:
+🌱 I'm currently learning ML Models, GenAI, Deep Learning Models (TensorFlow/Keras), and Data Analytics dashboards<br><br>👯 I'm looking to collaborate on Real-world Data Science & AI projects involving ML models, EDA, dashboards, or deployment<br><br>🤝 I'm looking for help with Advanced ML/DL model optimization, TensorFlow best practices, and real-world DS workflows<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, EDA, Streamlit apps, and data visualization<br><br>📫 How to reach me ✉️ shubhjain578@gmail.com<br><br>⚡ Fun fact I think I’m funny — my machine learning models sometimes agree 😄<br><br>👨‍💻 All of my projects are available at https://github.com/RohitKumarJain16<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Nx1XfiUHYptul0JI0VpPV-iFd0NzFLH_/view?usp=drive_link
 
-### An experienced Jupyter notebook developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitKumarJain16&label=Profile views&color=0e75b6&style=flat" alt="RohitKumarJain16" /> </p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RohitKumarJain16&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RohitKumarJain16&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumarJain16&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RohitKumarJain16" alt="RohitKumarJain16" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RohitKumarJain16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 I'm currently working on **End-to-end Machine Learning & Deep Learning projects with Streamlit deployment**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I'm currently learning **ML Models, GenAI, Deep Learning Models (TensorFlow/Keras), and Data Analytics dashboards**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RohitKumarJain16&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-- 👯 I'm looking to collaborate on **Real-world Data Science & AI projects involving ML models, EDA, dashboards, or deployment**
+---
+[![](https://visitcount.itsvg.in/api?id=RohitKumarJain16&icon=10&color=13)](https://visitcount.itsvg.in)
 
-- 🤝 I'm looking for help with **Advanced ML/DL model optimization, TensorFlow best practices, and real-world DS workflows
-
-**
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, EDA, Streamlit apps, and data visualization**
-
-- 📫 How to reach me **✉️ shubhjain578@gmail.com**
-
-- ⚡ Fun fact **I think I’m funny — my machine learning models sometimes agree 😄**
-
-- 👨‍💻 All of my projects are available at **[https://github.com/RohitKumarJain16](https://github.com/RohitKumarJain16)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1Nx1XfiUHYptul0JI0VpPV-iFd0NzFLH_/view?usp=drive_link](https://drive.google.com/file/d/1Nx1XfiUHYptul0JI0VpPV-iFd0NzFLH_/view?usp=drive_link)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/RohitKumarJain16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RohitKumarJain16" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rohit-kumar-jain-839202249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit-kumar-jain-839202249" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RohitKumarJain16&show_icons=true&locale=en&layout=compact" alt="RohitKumarJain16" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RohitKumarJain16&show_icons=true&locale=en" alt="RohitKumarJain16" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RohitKumarJain16&" alt="RohitKumarJain16" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
