@@ -24,5 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RohitKumarJain16&icon=10&color=13)](https://visitcount.itsvg.in)
+![Snake Animation](https://raw.githubusercontent.com/RohitKumarJain16/RohitKumarJain16/output/github-contribution-grid-snake.svg)   
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
