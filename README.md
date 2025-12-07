@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/9ce803f0-dbe9-4a40-a865-d1dabe02aa8e
+
 # 💫 About Me:
 🌱 I'm currently learning ML Models, GenAI, Deep Learning Models (TensorFlow/Keras), and Data Analytics dashboards<br><br>👯 I'm looking to collaborate on Real-world Data Science & AI projects involving ML models, EDA, dashboards, or deployment<br><br>🤝 I'm looking for help with Advanced ML/DL model optimization, TensorFlow best practices, and real-world DS workflows<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, EDA, Streamlit apps, and data visualization<br><br>📫 How to reach me ✉️ shubhjain578@gmail.com<br><br>⚡ Fun fact I think I’m funny — my machine learning models sometimes agree 😄<br><br>👨‍💻 All of my projects are available at https://github.com/RohitKumarJain16<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Nx1XfiUHYptul0JI0VpPV-iFd0NzFLH_/view?usp=drive_link
 
