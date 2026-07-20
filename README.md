@@ -149,6 +149,6 @@ Hindustan College of Science and Technology, Mathura
 
 ## Connect With Me
 
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [Add your LinkedIn profile URL here(https://www.linkedin.com/in/rohit-kumar-jain-839202249)
 - Email: rohitkumarjain1604@gmail.com
 - GitHub: [RohitKumarJain16](https://github.com/RohitKumarJain16)
