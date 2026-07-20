@@ -1,28 +1,154 @@
 ![coding-anime](https://github.com/user-attachments/assets/5aa10854-03fb-45ba-b421-53cffc496622)
  
-# 💫 About Me:
-🌱 I'm currently learning ML Models, GenAI, Deep Learning Models (TensorFlow/Keras), and Data Analytics dashboards<br><br>👯 I'm looking to collaborate on Real-world Data Science & AI projects involving ML models, EDA, dashboards, or deployment<br><br>🤝 I'm looking for help with Advanced ML/DL model optimization, TensorFlow best practices, and real-world DS workflows<br><br>💬 Ask me about Python, Machine Learning, Deep Learning, EDA, Streamlit apps, and data visualization<br><br>📫 How to reach me ✉️ rohitkumarjain1604@gmail.com<br><br>⚡ Fun fact I think I’m funny — my machine learning models sometimes agree 😄<br><br>👨‍💻 All of my projects are available at https://github.com/RohitKumarJain16<br><br>📄 Know about my experiences https://drive.google.com/file/d/1Nx1XfiUHYptul0JI0VpPV-iFd0NzFLH_/view?usp=drive_link
+# Hi, I'm Rohit Kumar Jain 👋
 
+## Data Science | Generative AI | Applied AI | Python
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+I am a B.Tech Information Technology graduate focused on building practical
+Data Science, Machine Learning and Generative AI applications.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RohitKumarJain16&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RohitKumarJain16&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumarJain16&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I work with Python, SQL, machine learning, Retrieval-Augmented Generation,
+LLM APIs, vector databases, FastAPI and Streamlit to develop complete AI
+solutions from data processing to user-facing applications.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RohitKumarJain16&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RohitKumarJain16&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+- 🎓 B.Tech in Information Technology, graduating in 2026
+- 📍 Gurugram, India
+- 🌍 Open to relocation and remote opportunities
+- 💼 Seeking entry-level full-time roles and paid internships
+- 🎯 Interested in Data Science, Machine Learning, Generative AI,
+  Applied AI and Python Development
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RohitKumarJain16&icon=10&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Technical Skills
+
+### Programming and Data
+
+`Python` `SQL` `Pandas` `NumPy` `SQLite`
+
+### Machine Learning
+
+`scikit-learn` `Regression` `Classification` `Clustering`
+`Feature Engineering` `Model Evaluation` `TensorFlow Fundamentals`
+
+### Generative AI and NLP
+
+`LangChain` `Gemini API` `Mistral API` `RAG`
+`Embeddings` `Semantic Search` `Prompt Engineering`
+`Structured Outputs`
+
+### Vector Databases and Multimodal AI
+
+`FAISS` `ChromaDB` `Whisper` `Sarvam AI`
+`Hugging Face Embeddings`
+
+### Application Development
+
+`FastAPI` `Streamlit` `Pydantic` `REST APIs`
+`Git` `GitHub` `Jupyter Notebook`
+
+### Data Visualisation
+
+`Matplotlib` `Seaborn` `Plotly`
+
+---
+
+## Featured Projects
+
+### 🎥 AI Video Assistant
+
+An end-to-end Generative AI application that processes YouTube videos and
+local audio or video files and converts them into searchable knowledge.
+
+**Key features:**
+
+- Processes YouTube URLs and local audio/video files
+- Transcribes English audio using Whisper
+- Supports Hinglish transcription and translation using Sarvam AI
+- Generates titles, summaries, action items, decisions and open questions
+- Creates embeddings and stores them in ChromaDB
+- Uses a RAG pipeline to answer questions about processed content
+- Provides an interactive Streamlit interface
+
+**Tech Stack:** Python, LangChain, Mistral AI, Whisper, Sarvam AI,
+Hugging Face Embeddings, ChromaDB, Streamlit
+
+[View Repository](https://github.com/RohitKumarJain16/AI-Video-Assistant)
+
+---
+
+### 📄 AI Document Question Answering Assistant
+
+A Retrieval-Augmented Generation application that allows users to upload
+PDF documents and ask natural-language questions.
+
+**Key features:**
+
+- Extracts and chunks text from uploaded PDF documents
+- Generates embeddings and creates a FAISS vector index
+- Retrieves contextually relevant document passages
+- Uses Gemini to generate grounded answers
+- Separates document extraction, retrieval and LLM components
+- Includes handling for unsupported or irrelevant questions
+
+**Tech Stack:** Python, LangChain, Gemini API, FAISS, PyPDF, Streamlit
+
+---
+
+### 🚗 Dynamic Ride-Share Pricing Engine and Model Comparison
+
+An end-to-end machine-learning application that predicts ride fares using
+demand, competitor pricing, time and weather conditions.
+
+**Key features:**
+
+- Created and stored structured ride data in SQLite
+- Built preprocessing and feature-engineering pipelines
+- Compared Linear Regression and Decision Tree Regressor models
+- Evaluated models using MAE, RMSE and R-squared
+- Added fare prediction and model-comparison dashboards
+- Built interactive visualisations using Plotly and Streamlit
+
+**Tech Stack:** Python, scikit-learn, Pandas, SQLite, Plotly, Streamlit
+
+---
+
+## Experience
+
+### Data Science Intern — Upflairs Pvt. Ltd.
+
+- Performed data preprocessing, exploratory analysis and feature engineering
+- Built introductory regression, classification and clustering workflows
+- Evaluated machine-learning models using standard evaluation metrics
+- Created data visualisations using Matplotlib, Seaborn and Plotly
+- Explored semantic search and retrieval-based AI systems
+
+### AI/ML Engineer Trainee — AICTE
+
+- Completed practical training in machine learning and neural-network fundamentals
+- Worked with TensorFlow, model evaluation and preprocessing workflows
+- Applied prompt-engineering and AI concepts through practical assignments
+
+---
+
+## Education
+
+**B.Tech in Information Technology**  
+Hindustan College of Science and Technology, Mathura  
+2022 – 2026
+
+---
+
+## Certifications
+
+- IBM Data Science Professional Certificate — Coursera
+- SQL Certificate — HackerRank
+- Problem Solving Certificate — HackerRank
+
+---
+
+## Connect With Me
+
+- LinkedIn: Add your LinkedIn profile URL here
+- Email: rohitkumarjain1604@gmail.com
+- GitHub: [RohitKumarJain16](https://github.com/RohitKumarJain16)
